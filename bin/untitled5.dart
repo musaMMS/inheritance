@@ -1,4 +1,4 @@
-// Bap er taka cele use korte pare and baba nijeo use kkorte pare
+// Bap er taka cele use korte pare and baba nijeo use korte pare
 //ar eitai hosse inheritance
 
 
